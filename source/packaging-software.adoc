@@ -979,7 +979,7 @@ ifdef::rhel["here" document]
 byte-compiled file into a library directory on the system such that it can be
 accessed.
 
-NOTE: You will notice below that we are hard coding the library path. There are
+You will notice below that we are hard coding the library path. There are
 various methods to avoid needing to do this, many of which are addressed in
 xref:advanced-topics[] , under the xref:more-on-macros[] section, and are
 specific to the programming language in which the software that is being
